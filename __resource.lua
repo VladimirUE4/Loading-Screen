@@ -1,10 +1,8 @@
 files {
-    "astronaut.png",
+    "arkanyx.png",
     "background.jpg",
-    "planet1.png",
-    "planet2.png",
-    "rocket.png",
-    "text.png",
+    "character.png",
+    "backtext.png",
     "parallax.js",
     "style.css",
     "index.html",
